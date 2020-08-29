@@ -13,12 +13,12 @@
     
     
     <item>
-      <title>First Post</title>
+      <title>Move to Hugo from Hexo</title>
       <link>https://blog.bingoai.tk/posts/first-post/</link>
       <pubDate>Wed, 19 Aug 2020 08:51:46 +0000</pubDate>
       
       <guid>https://blog.bingoai.tk/posts/first-post/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; is another static website generator like &lt;a href=&#34;https://hexo.io/zh-cn/index.html&#34;&gt;hexo&lt;/a&gt;. I&amp;rsquo;m not sure whether there are any advantages over Hexo, but I just move my blog to Hugo. This is a note on Hugo usage.&lt;/p&gt;</description>
     </item>
     
   </channel>
