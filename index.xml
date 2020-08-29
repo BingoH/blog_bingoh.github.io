@@ -1,17 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>Yet Another Blog by Hugo on Yet Another Blog by Hugo</title>
-		<link>https://blog.bingoai.tk/</link>
-		<description>Recent content in Yet Another Blog by Hugo </description>
-		<generator>Hugo -- gohugo.io</generator>
-		
-  		<language>en-us</language>
-		
-		<managingEditor>Page(&#34;Yet Another Blog by Hugo&#34;)</managingEditor>
-    	
-  		<lastBuildDate>Wed, 19 Aug 2020 08:51:46 +0000</lastBuildDate>
-		
-		<atom:link href="/" rel="self" type="application/rss+xml" />
-		
-	</channel>
+  <channel>
+    <title>Yet Another BingoH&#39;s Blog</title>
+    <link>https://blog.bingoai.tk/</link>
+    <description>Recent content on Yet Another BingoH&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Bingo.H</copyright>
+    <lastBuildDate>Wed, 19 Aug 2020 08:51:46 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.bingoai.tk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>https://blog.bingoai.tk/posts/first-post/</link>
+      <pubDate>Wed, 19 Aug 2020 08:51:46 +0000</pubDate>
+      
+      <guid>https://blog.bingoai.tk/posts/first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
 </rss>

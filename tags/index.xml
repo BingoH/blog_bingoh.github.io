@@ -1,15 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>Tags on Yet Another Blog by Hugo</title>
-		<link>https://blog.bingoai.tk/tags/</link>
-		<description>Recent content in Tags </description>
-		<generator>Hugo -- gohugo.io</generator>
-		
-  		<language>en-us</language>
-		
-		<managingEditor>Page(/tags)</managingEditor>
-    	
-		<atom:link href="/tags/" rel="self" type="application/rss+xml" />
-		
-	</channel>
+  <channel>
+    <title>Tags on Yet Another BingoH&#39;s Blog</title>
+    <link>https://blog.bingoai.tk/tags/</link>
+    <description>Recent content in Tags on Yet Another BingoH&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Bingo.H</copyright>
+    
+	<atom:link href="https://blog.bingoai.tk/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
 </rss>
